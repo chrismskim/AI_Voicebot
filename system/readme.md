@@ -1,5 +1,3 @@
-(작성중)
-
 # Calling System (관리자 웹/백엔드)
 
 AI 보이스봇을 활용한 취약계층 발굴 서비스의 **관리 시스템(Calling System)** 입니다.  
@@ -26,13 +24,3 @@ AI 보이스봇을 활용한 취약계층 발굴 서비스의 **관리 시스템
   - Redis : 상담 대기열, 질문 세트 캐싱
 - **Frontend**
   - Next.js 14
- 
-## 2. 실행을 위한 요구사항
-- 자동 생성 계정
-  - ID: admin
-  - Password: 12345678
-- Docker로 실행
-  - MySQL
-  - MongoDB
-  - Redis
-<img width="1038" height="116" alt="image" src="https://github.com/user-attachments/assets/b7afecd5-b77a-423b-9182-82b2201bcdb4" />
