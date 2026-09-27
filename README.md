@@ -43,3 +43,10 @@
 1.  의존성 설치: `pip install -r requirements.txt`
 2.  FastAPI 실행: `uvicorn app.main:app --reload`
 3.  웹 브라우저에서 `http://localhost:8000`으로 접속하여 상담을 시작합니다.
+
+
+## 🎥 Demo
+
+콜봇 시스템의 실제 동작 데모입니다.
+
+[▶️ Callbot Demo Video](./callbot_demo.mp4)
