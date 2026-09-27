@@ -47,6 +47,4 @@
 
 ## 🎥 Demo
 
-콜봇 시스템의 실제 동작 데모입니다.
-
-[▶️ Callbot Demo Video](./Demo.mp4)
+[![Watch the demo](demo-thumbnail.png)](https://github.com/user-attachments/assets/e34b0221-4441-4bfb-bc2f-f0dfd030bb96)
