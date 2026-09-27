@@ -49,4 +49,4 @@
 
 콜봇 시스템의 실제 동작 데모입니다.
 
-[▶️ Callbot Demo Video](Demo.mp4)
+[▶️ Callbot Demo Video](./Demo.mp4)
